@@ -1,4 +1,5 @@
 # Insurance Cost Analysis Dashboard
+This self-directed project was created to strengthen practical Tableau and data visualization skills through exploratory analysis of a public insurance dataset from Kaggle.
 
 ## Project Overview
 This project analyzes a public medical insurance dataset from Kaggle to explore factors affecting insurance charges. The analysis focuses on smoking status, BMI, age, region, and customer risk categories using Tableau dashboards.
