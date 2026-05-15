@@ -1,4 +1,3 @@
-# Insurance-Cost-Analysis
 # Insurance Cost Analysis Dashboard
 
 ## Project Overview
@@ -24,7 +23,7 @@ This project analyzes a public medical insurance dataset from Kaggle to explore 
 - High-risk customers contributed disproportionately to total costs.
 
 ## Dashboard Preview
-(Add screenshot below)
+![Dashboard Preview](insurance_dashboard.png)
 
 ## Outcome
 This project demonstrates exploratory analysis, dashboard development, and business insight generation using Tableau.
